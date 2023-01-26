@@ -130,7 +130,7 @@ Add images and other contents using CSS record a screenshot of it.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>VINOD</b></p>
+               <p><b>SASIRAJKUMAR T J</b></p>
             </div>
             <div class="publisher">
                 Packt>
